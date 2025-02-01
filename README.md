@@ -1,3 +1,5 @@
+Hi there! You have made this update
+
 # Vuex
 
 [![npm](https://img.shields.io/npm/v/vuex.svg)](https://npmjs.com/package/vuex)
